@@ -1,0 +1,108 @@
+What is the answer to 9 + 10 ?
+a. 21
+b. 19
+c. 36
+d. None of the above
+b
+What is the answer to 4 x 4 + 4 x 4 + 4 - 4 x 4 ?
+a. 20
+b. 4
+c. 320
+d. None of the above
+a
+2x = 17 + 65 * 3 / 3, what is x? 
+a. 46 
+b. 64 
+c. 41 
+d. None of the above
+c
+20% of 2 is equal to: 
+a. 20
+b. 4
+c. 0.4 
+d. 0.04
+c
+Of the following which is greater than 1/2? 
+a. 2/5
+b. 4/7
+c. 4/9
+d. 5/11
+b
+What is the order of operations?
+a. BADMAS
+b. BEDMASS
+c. BEDMAS
+d. BODMAS
+c
+What is an acute angle?
+a. An angle equal to 180 degrees
+b. An angle less than 180 degrees
+c. An angle equal to 90 degrees
+d. An angle less than 90 degrees
+d
+What is the formula for the Pythagorean Theorem?
+a. square of a = square of b - square of c
+b. square of c - square of a = square of b
+c. c = a + b
+d. b = c - a
+b
+What is a natural number?
+a. 0, 1, 2, 3, 4, ......
+b. ....., -3, -2, -1, 0, 1, 2, 3, .....
+c. ....., -1.5, -1, -0.5, 0, 0.5, 1, 1.5, .....
+d. 1, 2, 3, 4, 5, .....
+d
+What is the next prime number after 7?
+a. 8
+b. 9
+c. 10
+d. 11
+d
+What is the diameter of a circle?
+a. radius
+b. radius * 2
+c. radius / 2
+d. circumference
+b
+Who invented the symbol Pi?
+a. William Jones
+b. Shepare Pie III
+c. Wade Willson
+d. Piscine Patel
+a
+Which of the following is considered one of the first great mathematicians ofthe world?
+a. James G.
+b. Pythagoras
+c. Sophocles
+d. Einstein
+b
+The value of 5 in the number 357.21 is?
+a. 5 tenths
+b. 5 ones
+c. 5 tens
+d. 5 hundreds
+c
+Which of the following is a subset of {b, c, d}?
+a. {}
+b. {a}
+c. {1, 2, 3}
+d. {a, b, c}
+a
+In coordinate geometry, the equation of the x-axis is?
+a. y = x
+b. y = 0
+c. x = 0
+d. y = 1
+b
+3x - 4(x + 6) = ? 
+a. x + 6
+b. -x - 24
+c. 7x + 6
+d. -7x - 24
+b
+Items bought by a trader for $80 are sold for $100. The profit expressed as a percentage of cost price is?
+a. 2.5%
+b. 20%
+c. 25%
+d. 50%
+c

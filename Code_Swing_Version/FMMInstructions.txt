@@ -1,0 +1,10 @@
+You are a FMM student. Today is exam day! NO WAY!!!
+You will be tested on each of the 6 basic courses in the order of Math, English, Science, Business, PhysEd, and Art.
+You will not be able to skip any course, and must pass the first course to allow access to the next course.
+In each round, you will be required to answer 6 trivia questions and if you get at least 4 out of them right, you pass that course.
+Each time you pass a course, you will obtain an "item", which is a hint for the final riddle or simply a motivation quote.
+Once you fail any course it is game over.
+You can restart but it will start from the first class (Math) again, and the years you take to graduate will increment by 1.
+Be careful, once you press the "give up" button you will become a permanent student!
+The "escape" button brings you to the riddle page, where you will get an unlimited number of tries to input the answer.
+After you pass all courses and answer the final riddle, you will finally be able to escape from FMM!

@@ -1,0 +1,18 @@
+deadpool
+6
+true
+peter parker
+1
+true
+owen wilson
+2
+true
+girl
+4
+false
+007
+1
+false
+vert
+1
+false
